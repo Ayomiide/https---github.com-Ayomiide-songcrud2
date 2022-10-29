@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     # app I created
-    'musicapp'
+    'musicapp.apps.MusicappConfig'
 ]
 
 MIDDLEWARE = [
